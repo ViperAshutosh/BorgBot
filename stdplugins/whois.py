@@ -54,6 +54,7 @@ Number of PPs: {}
 Restricted: {}
 Verified: {}
 Bot: {}
+Gaandu : Yes
 Groups in Common: {}
 """.format(
         user_id,
