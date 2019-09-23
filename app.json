@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ArnabXD/BorgBot",
-  "website": "https://telegram.dog/UniBorg",
-  "success_url": "https://t.me/UniBorg/5",
+  "repository": "https://github.com/ViperAshutosh/BorgBot",
+  "website": "https://telegram.dog/techsndtips",
+  "success_url": "https://t.me/memeslandxd",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable environment variables.",
