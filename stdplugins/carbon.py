@@ -4,7 +4,6 @@ usage: .carbon //as a reply to any text message
 
 Thanks to @AvinashReddy3108 for a Base Plugin.
 Go and Do a star on his repo: https://github.com/AvinashReddy3108/PaperplaneExtended/
-
 """
 from selenium.webdriver.support.ui import Select
 from selenium.webdriver.chrome.options import Options
@@ -63,7 +62,7 @@ async def carbon_api(e):
    await e.client.send_file(
          e.chat_id,
          file,
-         caption="《《 CARBON by [BorgBot](github.com/ArnabXD/BorgBot) 》》",
+         caption="《《CARBON by [BorgBot](github.com/ArnabXD/BorgBot)》》",
          force_document=False,
          reply_to=e.message.reply_to_msg_id,
          )
