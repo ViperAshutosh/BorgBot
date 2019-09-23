@@ -106,8 +106,8 @@ async def on_afk(event):
             else:
                 afk_since = f"`{int(seconds)}s` **ago**"
         msg = None
-        message_to_reply = f"My Boss is Away From Keyboard . \nHe Will Check Your Messeges and Try to Reply.\nKindly Don't Spam . Thank You .\n\n**Last Seen: Only God Knows.** " + \
-            f"\n\n__Reason:__ {reason}" \
+        message_to_reply = f"**Chand pe Hai Apun **, \nDon't Disturb . Else Rape ." + \
+            f"\n\n**AFK Reason :** {reason}" \
             if reason \
             else f"**Important Notice** [😞](https://telegra.ph//file/a53fa950ff31781d5930a.jpg)\nThis User Is Ded AF !"
         msg = await event.reply(message_to_reply)
