@@ -30,7 +30,7 @@
       "value": ""
     },
     "HU_STRING_SESSION": {
-      "description": "Get this value by running python3 GenerateStringSession.py locally",
+      "description": "Get this value by running python3 String_Session.py locally",
       "value": ""
     },
     "OPEN_WEATHER_MAP_APPID": {
